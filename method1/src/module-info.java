@@ -4,5 +4,5 @@
 /**
  * 
  */
-module garbage {
+module method1 {
 }
