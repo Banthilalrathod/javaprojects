@@ -38,7 +38,7 @@ public class method4 {
 		System.out.println("main method ended");
 		m.sub(c,d);
 		
-	//subraction
+	//multiplication
 		System.out.println("enter a value ;");
 		float f1 =sc.nextInt();
 		System.out.println("enter b value"); 
